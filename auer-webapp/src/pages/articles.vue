@@ -18,6 +18,43 @@
                           text-align:left;">
                 <div id="big-post" style="padding: 5px 5px 0px 5px;max-width:100%;">
                     <!-- Image -->
+                    <q-btn  :ripple="false" flat no-caps padding="none" align="left" to='ar024'>
+                        <img src="../assets/ar024/main_ar024.jpg" style="width:100%; height:200px;"><!-- Change -->
+                    </q-btn>
+                    <!-- Category -->
+                    <div class="row justify-left">
+                        <div class="q-gutter-sm" style="padding: 10px 5px 10px 0px">
+                        <q-btn size='7px' color="black" text-color="white" label="Nobel Prize" />
+                    <q-btn size='7px' color="black" text-color="white" label="Auction Theory" />
+                        </div>
+                    </div>
+                    <!-- Heading -->
+                    <div style="border-bottom-width: 2px;
+                                border-bottom-style: solid;
+                                border-bottom-color: rgb(40, 40, 40);">
+                        <a  class='title-url text-h6' href="/ar024" style="font-size:18px;line-height:1.4; font-weight:700;font-family: 'Rufina', serif;text-size-adjust:100%; cursor:pointer;  ">
+                        Is Nifty Overvalued?
+                        </a>
+                    </div>
+                    <!-- Subheading -->
+                    <div style="padding:10px 0px 0px 0px">
+                        <a  class='subtitle-url text-subtitle1' href="/ar024" style="font-size:14px;text-size-adjust:100%; cursor:pointer;  ">
+                        Analysing the market exuberance through Fundamental Analysis
+                        </a>
+                        <div class="text-subtitle2" style="font-size:12px;"><i>by Hrithik Ganju | July 17th, 2021</i></div>
+                    </div>
+                </div>
+            </div>
+            <!-- POSTS END -->
+            <!-- POSTS BEGIN -->
+            <div class="col-14 col-md-3" style="border-width: 1px;
+                          border-style: solid;
+                          border-color: #e8e8e8;
+                          padding: 5px 5px 5px 5px;
+                          max-width:100%;
+                          text-align:left;">
+                <div id="big-post" style="padding: 5px 5px 0px 5px;max-width:100%;">
+                    <!-- Image -->
                     <q-btn  :ripple="false" flat no-caps padding="none" align="left" to='ar023'>
                         <img src="../assets/ar023/main_ar023.jpg" style="width:100%; height:200px;">
                     </q-btn>

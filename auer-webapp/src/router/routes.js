@@ -80,6 +80,10 @@ const routes = [
       {
         path: '/ar023',
         component: () => import('pages/articles/ar023.vue')
+      },
+      {
+        path: '/ar024',
+        component: () => import('pages/articles/ar024.vue')
       }
     ]
   },
