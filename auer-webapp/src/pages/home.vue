@@ -315,7 +315,7 @@
                   </div> -->
                     <div class="q-gutter-sm" style="padding: 10px 5px 0px 0px">
                        <q-btn size='7px' color="black" text-color="white" label="Stock Market" />
-                    <q-btn size='7px' color="black" text-color="white" label="Nobel Prize" />
+                    <q-btn size='7px' color="black" text-color="white" label="Finance" />
                     </div>
                 </div>
                 <!-- Heading -->

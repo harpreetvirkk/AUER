@@ -17,8 +17,8 @@
             <!-- Category -->
                 <div class="row justify-left">
                     <div class="q-gutter-sm" style="padding: 10px 5px 10px 0px">
-                    <q-btn size='7px' color="black" text-color="white" label="Nobel Prize" />
-                    <q-btn size='7px' color="black" text-color="white" label="Auction Theory" />
+                    <q-btn size='7px' color="black" text-color="white" label="Finance" />
+                    <q-btn size='7px' color="black" text-color="white" label="Stock Market" />
                     </div>
                 </div>
             <div style="border-bottom-width: 2px;
